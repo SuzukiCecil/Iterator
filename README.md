@@ -9,7 +9,7 @@ composer install
 ## Usage
 
 ```
-php main.php
+php index.php
 ```
 
 ## sample
